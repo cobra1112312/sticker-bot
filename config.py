@@ -1,1 +1,1 @@
-BOT_TOKEN = "حط_التوكن_هنا"
+BOT_TOKEN = "7510820530:AAFQfSnSCEfIPSM7d8nKimaL7ZtZjn-nbTU"
